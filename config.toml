@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://one-greece-news24.vercel.app"
+baseURL = "https://q2.vercel.app/"
 languageCode = "en-us"
 title = "Yves Saint Laurent Biography"
 theme = "influencer-hugo"
